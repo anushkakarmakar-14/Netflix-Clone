@@ -14,3 +14,7 @@ Responsive Layout that works on mobile, tablet, and desktop
 HTML5 (semantic structure)
 CSS3 (Flexbox, Grid, animations)
 JavaScript (DOM manipulation, form validation)
+
+## 🔗 Live Demo
+
+Check out the live version of the Netflix Clone [here](https://6zs1cvmj-5500.inc1.devtunnels.ms/)
