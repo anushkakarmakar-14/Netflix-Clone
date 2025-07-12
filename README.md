@@ -17,4 +17,4 @@ JavaScript (DOM manipulation, form validation)
 
 ## 🔗 Live Demo
 
-Check out the live version of the Netflix Clone [here](https://6zs1cvmj-5500.inc1.devtunnels.ms/)
+Check out the live version of the Netflix Clone [here](https://anushkakarmakar-14.github.io/Netflix-Clone/)
